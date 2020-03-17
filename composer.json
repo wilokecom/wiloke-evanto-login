@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "WilokeEvantoLogin\\": "src/"
+    }
+  },
+  "require": {
+    "symfony/http-foundation": "^4.3"
+  }
+}
